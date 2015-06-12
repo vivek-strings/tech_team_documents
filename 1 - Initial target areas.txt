@@ -1,0 +1,15 @@
+1) Volunteers/teachers attendance and activity reporting tool.
+2) Messaging platform for communication between volunteers and other stakeholders.
+3) Activity Reminder system for volunteers/donors/sponsors.
+4) Problem reporting tool - to be used by volunteers/sponsors/donors for raising concerns. Support for severity levels.
+5) OMR sheet based monthly-exam question papers.
+6) Admission tracking tool to assist admission team in tracking admission/exam/payment dates.
+7) Shifting monthly finance report from current MS-Word to some other, more suitable format.
+8) Consolidated Databases for - finance reports, students, volunteers, teachers, alumni, sponsors, counterparts, attendance reports, results.
+9) Access and query fetching on various databases. Various reporting tools related to databases.
+11) Automation of payment for teachers, rooms, student expenses.
+12) Automated confirmation of donations received via account transfer, PayU, and Paypal.
+13) Graphical reports for student performance, student strength, funding, expenditure across various divisions.
+14) Automated emails to potential donors for donations/sponsorship.
+15) Automated emails to donors for monthly updates related to Sankalp.
+16) Automated mails to sponsors updating them about student performance.
