@@ -1,5 +1,6 @@
-This file discusses the major target areas for the tech team. Each target area then lists the major points of focus that need to be taken
-care of, while working on the target items. Software/tools needed to develop the target item will depend very much on the requirements under
+This file discusses the major target areas for the tech team. Each target area then lists the major
+points of focus that need to be taken care of, while working on the target items. Software/tools
+needed to develop the target item will depend very much on the requirements under
 each target item.
 
 1) Volunteers/teachers attendance and activity reporting tool. 
