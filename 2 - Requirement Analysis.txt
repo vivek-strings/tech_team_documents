@@ -11,7 +11,8 @@ each target item.
 *** Neha EEE
 2) Messaging platform for communication between volunteers and other stakeholders.
     - Explore options? Criteria - file sharing, no upper limit, light-weight, popularity.
-    
+
+*** Pending
 3) Activity Reminder system for volunteers/donors/sponsors. 
     - Volunteer - Remind about classes, events, pending items, poor performance, less attendance.
     - Alumni/Sponsors/Donors - Standing instruction for donation
@@ -26,7 +27,8 @@ each target item.
     - Incorrect information
     - Query about any activity
     - Other grievances
-    
+
+*** Pending    
 5) OMR sheet based monthly-exam question papers.
     - Method of input: Q+A sheet, or only A sheet
     - Method of marking answers
@@ -36,7 +38,8 @@ each target item.
     - Reliability measure of the answer recognition engine.
     - Result dump in a file or just display?
     - Image recognition engine algorithm?
-    
+
+*** Pending
 6) Admission tracking tool to assist admission team in tracking admission/exam/payment dates.
     - Admission date: class-wise, medium of instruction, exam date, last date of form submission
     - Connect with student database for student information
@@ -48,15 +51,18 @@ each target item.
     - Ease of converting to PDFs, JPEGs
     - Connecting with consolidated finance database(CFD) is updated automatically
     
+*** Pending
 8) Consolidated Databases for - finance reports, students, volunteers, teachers, alumni, sponsors, counterparts, attendance reports, results.
     - Decide on fields in each table
     - Relation between tables
     
+*** Pending
 9) Access and query fetching on various databases. Various reporting tools related to databases.
     - Queries allowed on tables?
     - UI for query fetch designed in?
     - Tool hosted on website(access only to registered volunteers)/localhost?
     
+*** Pending
 10) Graphical reports for student performance, student strength, funding, expenditure across various divisions.
     - Connecting with various databases
     - Types of graphs possible
