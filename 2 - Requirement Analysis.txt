@@ -3,10 +3,12 @@ points of focus that need to be taken care of, while working on the target items
 needed to develop the target item will depend very much on the requirements under
 each target item.
 
-1) Volunteers/teachers attendance and activity reporting tool. 
+*** Yogesh
+1) Volunteers/teachers attendance and activity reporting tool.
     - What is taught? number of kids taught? Progress report summary for the day? General remarks.
     - Days on which volunteers visited
-    
+
+*** Neha EEE
 2) Messaging platform for communication between volunteers and other stakeholders.
     - Explore options? Criteria - file sharing, no upper limit, light-weight, popularity.
     
@@ -14,6 +16,7 @@ each target item.
     - Volunteer - Remind about classes, events, pending items, poor performance, less attendance.
     - Alumni/Sponsors/Donors - Standing instruction for donation
     
+*** Aditya
 4) Problem reporting tool - to be used by volunteers/sponsors/donors for raising concerns.
     - Problem in using any of the tools
     - Description of problem
@@ -38,6 +41,7 @@ each target item.
     - Admission date: class-wise, medium of instruction, exam date, last date of form submission
     - Connect with student database for student information
     
+*** Neha Saw, Mayank
 7) Shifting monthly finance report from current MS-Word to some other, more suitable format.
     - Auto calculate total expenses and income
     - Generate graphs On-The-Fly
@@ -53,39 +57,43 @@ each target item.
     - UI for query fetch designed in?
     - Tool hosted on website(access only to registered volunteers)/localhost?
     
-11) Automation of payment for teachers, rooms, student expenses.
-    - Standing instruction to pay teachers/student fees
-    - How is it monitored that there is sufficient balance in the account. 
-    
-12) Automated confirmation of donations received via account transfer, PayU, and Paypal.
+10) Graphical reports for student performance, student strength, funding, expenditure across various divisions.
+    - Connecting with various databases
+    - Types of graphs possible
+    - UI for query fetch designed in?
+    - Tool hosted on website(access only to registered volunteers)/localhost?
+
+*** Raj Ranjan, Aditya
+11) Automated confirmation of donations received via account transfer, PayU, and Paypal.
     - How is the input accepted from volunteer? UI/Command line?
     - Input fields: Email ID, fb account, contact number, amount donated
     - If name already exists, then only enter amount, provide option to update other details
     - Update donor details options, total amount donated: connected with donor DB.
     - Trigger auto sending emails for donation confirmation: method of trigger
-    
-13) Graphical reports for student performance, student strength, funding, expenditure across various divisions.
-    - Connecting with various databases
-    - Types of graphs possible
-    - UI for query fetch designed in?
-    - Tool hosted on website(access only to registered volunteers)/localhost?
-    
-14) Automated emails to potential donors for donations/sponsorship.
+
+*** Raj Ranjan, Aditya    
+12) Automated emails to potential donors for donations/sponsorship.
     - Connect with potential donors database
     - Content of emails
     - Method of input for fields that change for every email ID
     - Response tracking?
     - Tool hosted on website(access only to registered volunteers)/localhost?
-    
-15) Automated emails to donors for monthly updates related to Sankalp.
+   
+*** Raj Ranjan, Aditya  
+13) Automated emails to donors for monthly updates related to Sankalp.
     - Message content
     - Method of input for fields that change for every email ID
     - Frequency of sending
     - Response tracking
     - Trigger mechanism
     - Tool hosted on website(access only to registered volunteers)/localhost?
-    
-16) Automated mails to sponsors updating them about student performance.
+   
+*** Raj Ranjan, Aditya
+14) Automated mails to sponsors updating them about student performance.
     - Connect with student database
     - Trigger method: after each exam when student DB is updated or triggered by volunteer
     - Response tracking
+
+*** Yash, Ashutosh, Sanjit
+15) Development of admin panel
+    - One place to update News gallery, photos etc.

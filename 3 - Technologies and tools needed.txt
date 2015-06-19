@@ -1,0 +1,17 @@
+This document lists all the important tools/software we will be using
+for code development. The document also points to some learning resources
+related to each technology for basic understanding.
+
+Version Control Software:
+GitHub
+
+Python
+MySQL
+HTML, CSS
+Javascript
+PHP
+Java
+Developing Android App
+Any suitable IDE for code development
+Image recognition
+MS-Excel, MS-Word, Text files, generating PDFs, JPEGs
