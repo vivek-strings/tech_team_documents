@@ -1,3 +1,5 @@
+## To update
+
 This document lists all the important tools/software we will be using
 for code development. The document also points to some learning resources
 related to each technology for basic understanding.
@@ -5,6 +7,7 @@ related to each technology for basic understanding.
 Version Control Software:
 GitHub
 
+Tools being suggested
 Python
 MySQL
 HTML, CSS
